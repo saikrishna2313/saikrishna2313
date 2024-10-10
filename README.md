@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikrishna2313&show_icons=true&locale=en&layout=compact" alt="saikrishna2313" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikrishna2313&show_icons=true&locale=en" alt="saikrishna2313" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikrishna2313&" alt="saikrishna2313" /></p>
